@@ -1,0 +1,21 @@
+ticker,question,expected_metric
+GOOGL,What is the strategic AI focus for GOOGL in 2024?,AI scaling/Infrastructure
+GOOGL,Is GOOGL prioritizing high-margin services?,High-margin priority
+GOOGL,Does GOOGL mention R&D for next-gen processing?,R&D focus
+GOOGL,What is the current Beta for GOOGL?,Quantitative check
+MSFT,What is the strategic AI focus for MSFT in 2024?,AI scaling/Infrastructure
+MSFT,Is MSFT prioritizing high-margin services?,High-margin priority
+MSFT,Does MSFT mention R&D for next-gen processing?,R&D focus
+MSFT,What is the current Beta for MSFT?,Quantitative check
+IBM,What is the strategic AI focus for IBM in 2024?,AI scaling/Infrastructure
+IBM,Is IBM prioritizing high-margin services?,High-margin priority
+IBM,Does IBM mention R&D for next-gen processing?,R&D focus
+IBM,What is the current Beta for IBM?,Quantitative check
+NVDA,What is the strategic AI focus for NVDA in 2024?,AI scaling/Infrastructure
+NVDA,Is NVDA prioritizing high-margin services?,High-margin priority
+NVDA,Does NVDA mention R&D for next-gen processing?,R&D focus
+NVDA,What is the current Beta for NVDA?,Quantitative check
+AMZN,What is the strategic AI focus for AMZN in 2024?,AI scaling/Infrastructure
+AMZN,Is AMZN prioritizing high-margin services?,High-margin priority
+AMZN,Does AMZN mention R&D for next-gen processing?,R&D focus
+AMZN,What is the current Beta for AMZN?,Quantitative check
